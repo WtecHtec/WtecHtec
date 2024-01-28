@@ -1,5 +1,5 @@
 - 👋 Hi, 这是一个终身学习主义者
 - 👀 从0到1自动化工具专栏:http://t.csdnimg.cn/rVLFO
-- 🌱 
+- 🌱 从0到1的微信自动回复平台专栏：http://t.csdnimg.cn/iMHiI
 - 💞️ 
 - 📫 
