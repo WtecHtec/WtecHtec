@@ -2,4 +2,5 @@
 - 👀 从0到1自动化工具专栏:http://t.csdnimg.cn/rVLFO
 - 🌱 从0到1的微信自动回复平台专栏：http://t.csdnimg.cn/iMHiI
 - 💞️ 即时设计插件列表：https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8
+- 🫙 微信小程序：情绪宣泄瓶：![在这里插入图片描述](https://img-blog.csdnimg.cn/img_convert/5eb0203fbcad667d8f6547e38b284255.jpeg#pic_center)
 - 📫 
