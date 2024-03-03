@@ -3,4 +3,4 @@
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
 - 🫙 微信小程序：情绪宣泄瓶：![在这里插入图片描述](https://img-blog.csdnimg.cn/img_convert/5eb0203fbcad667d8f6547e38b284255.jpeg#pic_center)
-- 📫 
+- 😉 赞赏：![WechatIMG244908.jpeg](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7d8aa43084a24f38a6734c4493ea9bdb~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=828&h=1124&s=81919&e=jpg&b=07c164)
