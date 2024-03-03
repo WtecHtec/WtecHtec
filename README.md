@@ -2,5 +2,5 @@
 - 👀  [从0到1自动化工具专栏](http://t.csdnimg.cn/rVLFO)
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
-- 🫙 微信小程序：情绪宣泄瓶：![在这里插入图片描述](https://img-blog.csdnimg.cn/img_convert/5eb0203fbcad667d8f6547e38b284255.jpeg#pic_center)
-- 😉 赞赏：![WechatIMG244908.jpeg](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
+- 🫙 微信小程序：[情绪宣泄瓶](https://img-blog.csdnimg.cn/img_convert/5eb0203fbcad667d8f6547e38b284255.jpeg#pic_center)
+- 😉 [赞赏](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
