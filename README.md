@@ -4,4 +4,5 @@
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
 - 🫙 微信小程序：[情绪宣泄瓶](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0115e92de9b549fab415d53fd6c06283~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=294&s=31021&e=jpg&b=ffffff)
+- 📒 [Notion快速笔记Chrome插件](https://chromewebstore.google.com/detail/nnote/fkpjhnnephoigpfcocclfmakbaccnkpe?hl=zh-CN&authuser=0)
 - 😉 [赞赏](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
