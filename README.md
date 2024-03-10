@@ -1,5 +1,5 @@
 - 👋 Hi, 这是一枚终身学习主义者，他说：勇于为想法付诸行动！
-- 🔧 [小工具集合(数据转换、加密等)](https://luckcar.top/)
+- 🔧 [小工具集合(数据转换、加密等)](https://luckcar.top/tools/#/)
 - 👀  [从0到1自动化工具专栏](http://t.csdnimg.cn/rVLFO)
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
