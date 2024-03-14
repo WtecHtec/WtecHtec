@@ -1,9 +1,9 @@
 - 👋 Hi, 这是一枚终身学习主义者，他说：勇于为想法付诸行动！
 - 🔧 [小工具集合(数据转换、加密等)](https://luckcar.top/tools/#/)
-- 👀  [从0到1自动化工具专栏](http://t.csdnimg.cn/rVLFO)
+- 👀  [从0到1自动化工具专栏, 桌面应用爬虫、自动化测试、自动化操作](http://t.csdnimg.cn/rVLFO)
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
-- 🥗 [微信小程序”情绪宣泄瓶“](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0115e92de9b549fab415d53fd6c06283~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=294&s=31021&e=jpg&b=ffffff)
+- 🥗 [微信小程序”情绪宣泄瓶“, 感受大自然的声音](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0115e92de9b549fab415d53fd6c06283~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=294&s=31021&e=jpg&b=ffffff)
 - 😎 [微信小程序”胖头鱼要进步“, 主要记忆单词，快乐学习](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3edc4ca5cff748b889f3ac582b40f3fd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=258&s=45403&e=jpg&b=fdfdfd)
 - 📒 [Notion快速笔记Chrome插件](https://chromewebstore.google.com/detail/nnote/fkpjhnnephoigpfcocclfmakbaccnkpe?hl=zh-CN&authuser=0)
 - 🕐 [HelthPal便签Chrome插件](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)
