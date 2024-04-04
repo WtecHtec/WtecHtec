@@ -5,7 +5,7 @@
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
 - 🐱‍🚀 [关于一份NPM包](https://www.npmjs.com/~wtechtec)
 - 🥗 [微信小程序”情绪宣泄瓶“, 感受大自然的声音](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0115e92de9b549fab415d53fd6c06283~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=294&s=31021&e=jpg&b=ffffff)
-- 😎 [微信小程序”胖头鱼要进步“, 主要记忆单词，快乐学习](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3edc4ca5cff748b889f3ac582b40f3fd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=258&s=45403&e=jpg&b=fdfdfd)
+- 😎 [ext-shoot一个管理chrome扩展的插件](https://chromewebstore.google.com/detail/ext-shoot/bmlaldmbikapkjnadjglefaglmapkojb?hl=zh-CN&authuser=0)
 - 📒 [Notion快速笔记Chrome插件](https://chromewebstore.google.com/detail/nnote/fkpjhnnephoigpfcocclfmakbaccnkpe?hl=zh-CN&authuser=0)
 - 🕐 [HelthPal便签Chrome插件](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)
 - 😉 [赞赏](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
