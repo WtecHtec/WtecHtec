@@ -8,4 +8,5 @@
 - 😎 [ext-shoot一个管理chrome扩展的插件](https://chromewebstore.google.com/detail/ext-shoot/bmlaldmbikapkjnadjglefaglmapkojb?hl=zh-CN&authuser=0)
 - 📒 [Notion快速笔记Chrome插件](https://chromewebstore.google.com/detail/nnote/fkpjhnnephoigpfcocclfmakbaccnkpe?hl=zh-CN&authuser=0)
 - 🕐 [HelthPal便签Chrome插件](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)
+- 🧧 [浏览器历史快捷搜索Chrome插件](https://chromewebstore.google.com/detail/snapseek/fineihnhnagkjnmfdcompmnhalkakghp?hl=zh-CN&authuser=0)
 - 😉 [赞赏](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
