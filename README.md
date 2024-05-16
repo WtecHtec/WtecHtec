@@ -10,4 +10,5 @@
 - 🕐 [HelthPal便签Chrome插件](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)
 - 🧧 [浏览器历史快捷搜索Chrome插件](https://chromewebstore.google.com/detail/snapseek/fineihnhnagkjnmfdcompmnhalkakghp?hl=zh-CN&authuser=0)
 - 🫥 [一键清理404chrome书签](https://chrome.google.com/webstore/devconsole/aa10750a-24ce-4f60-a867-1774d957cc8b/bfeimmeahekpbhodcjbioifdnbklfoko/edit)
+- 💕[发现-分享chrome插件](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?hl=zh-CN&authuser=0)
 - 😉 [赞赏](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
