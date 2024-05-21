@@ -1,5 +1,4 @@
 - 👋 Hi, 这是一枚终身学习主义者，他说：勇于为想法付诸行动！
-- ⚽️ [博客](https://fi0xqe16ql1.feishu.cn/docx/K3CFd3bpqopxExxhZfQcP5CQnNc?from=from_copylink)
 - 🔧 [小工具集合(数据转换、加密等)](https://luckcar.top/tools/#/)
 - 👀  [从0到1自动化工具专栏, 桌面应用爬虫、自动化测试、自动化操作](http://t.csdnimg.cn/rVLFO)
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
@@ -12,4 +11,4 @@
 - 🧧 [浏览器历史快捷搜索Chrome插件](https://chromewebstore.google.com/detail/snapseek/fineihnhnagkjnmfdcompmnhalkakghp?hl=zh-CN&authuser=0)
 - 🫥 [一键清理404chrome书签](https://chrome.google.com/webstore/devconsole/aa10750a-24ce-4f60-a867-1774d957cc8b/bfeimmeahekpbhodcjbioifdnbklfoko/edit)
 - 💕[发现-分享chrome插件](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?hl=zh-CN&authuser=0)
-- 😉 [赞赏](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c7ccd5be363d4aa9bac86733ef495d0c~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=271&s=27307&e=jpg&b=08c165)
+- ⚽️ [博客](https://fi0xqe16ql1.feishu.cn/docx/K3CFd3bpqopxExxhZfQcP5CQnNc?from=from_copylink)
