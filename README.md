@@ -11,4 +11,5 @@
 - 🧧 [浏览器历史快捷搜索Chrome插件](https://chromewebstore.google.com/detail/snapseek/fineihnhnagkjnmfdcompmnhalkakghp?hl=zh-CN&authuser=0)
 - 🫥 [一键清理404chrome书签](https://chrome.google.com/webstore/devconsole/aa10750a-24ce-4f60-a867-1774d957cc8b/bfeimmeahekpbhodcjbioifdnbklfoko/edit)
 - 💕[发现-分享chrome插件](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?hl=zh-CN&authuser=0)
+- 🥸[视频焦点关注的编辑器](https://luckcar.top/avcraft/)
 - ⚽️ [博客](https://fi0xqe16ql1.feishu.cn/docx/K3CFd3bpqopxExxhZfQcP5CQnNc?from=from_copylink)
