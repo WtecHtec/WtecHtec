@@ -13,4 +13,5 @@
 - 💕[发现-分享chrome插件](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?hl=zh-CN&authuser=0)
 - 🥸[视频焦点关注的编辑器](https://luckcar.top/avcraft/)
 - 🥸[追踪鼠标点击效果的录屏插件](https://chromewebstore.google.com/detail/record-avcraft/oamckfgecgfenpchklfhelhnngmhdnma?hl=zh-CN&authuser=0)
+- 🧐[基于Electron录制应用](http://t.csdnimg.cn/tclFQ)
 - ⚽️ [博客](https://fi0xqe16ql1.feishu.cn/docx/K3CFd3bpqopxExxhZfQcP5CQnNc?from=from_copylink)
