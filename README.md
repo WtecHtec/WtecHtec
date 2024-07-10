@@ -12,7 +12,7 @@
 - 📒 [Notion快速笔记Chrome插件](https://chromewebstore.google.com/detail/nnote/fkpjhnnephoigpfcocclfmakbaccnkpe?hl=zh-CN&authuser=0)
 - 🕐 [HelthPal便签Chrome插件](https://chromewebstore.google.com/detail/helthpal/jnkkhbadiacplpihlilbgnjikcecjeno?hl=zh-CN&authuser=0)
 - 🧧 [浏览器历史快捷搜索Chrome插件](https://chromewebstore.google.com/detail/snapseek/fineihnhnagkjnmfdcompmnhalkakghp?hl=zh-CN&authuser=0)
-- 🫥 [一键清理404chrome书签](https://chrome.google.com/webstore/devconsole/aa10750a-24ce-4f60-a867-1774d957cc8b/bfeimmeahekpbhodcjbioifdnbklfoko/edit)
+- 🫥 [一键清理404chrome书签](https://chromewebstore.google.com/detail/bookmarks-helper/bfeimmeahekpbhodcjbioifdnbklfoko?authuser=0&hl=zh-CN)
 - 🥸[追踪鼠标点击效果的录屏插件](https://chromewebstore.google.com/detail/record-avcraft/oamckfgecgfenpchklfhelhnngmhdnma?hl=zh-CN&authuser=0)
 - 🧐[ReplayTact Chrome插件](https://chromewebstore.google.com/detail/replay-text-actions/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN)
 - ⚽️ [博客](https://fi0xqe16ql1.feishu.cn/docx/K3CFd3bpqopxExxhZfQcP5CQnNc?from=from_copylink)
