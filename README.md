@@ -1,5 +1,5 @@
 - 👋 干就完事了！
-- 🧐[基于Electron录制应用](http://t.csdnimg.cn/tclFQ)
+- 🧐[基于Electron录制应用(支持跟随鼠标移动、画板)](http://t.csdnimg.cn/tclFQ)
 - 👀  [从0到1自动化工具专栏, 桌面应用爬虫、自动化测试、自动化操作](http://t.csdnimg.cn/rVLFO)
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
