@@ -15,4 +15,4 @@
 - 🫥 [一键清理404chrome书签](https://chromewebstore.google.com/detail/bookmarks-helper/bfeimmeahekpbhodcjbioifdnbklfoko?authuser=0&hl=zh-CN)
 - 🥸[追踪鼠标点击效果的录屏插件](https://chromewebstore.google.com/detail/record-avcraft/oamckfgecgfenpchklfhelhnngmhdnma?hl=zh-CN&authuser=0)
 - 🧐[ReplayTact Chrome插件](https://chromewebstore.google.com/detail/replay-text-actions/ohkipcncfnmjoeneihmglaadloddopkg?authuser=0&hl=zh-CN)
-- ⚽️ [博客](https://fi0xqe16ql1.feishu.cn/docx/K3CFd3bpqopxExxhZfQcP5CQnNc?from=from_copylink)
+- ⚽️ [博客](https://sourl.cn/fHeXaZ)
