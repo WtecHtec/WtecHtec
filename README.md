@@ -1,7 +1,7 @@
 - 👋 干就完事了！
 - 🧐[基于Electron录制应用(支持跟随鼠标移动、画板)](http://t.csdnimg.cn/tclFQ)
 - 👀  [从0到1自动化工具专栏, 桌面应用爬虫、自动化测试、自动化操作](http://t.csdnimg.cn/rVLFO)
-- 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/iMHiI)
+- 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/xJMbL)
 - 💞️ [即时设计插件列表](https://js.design/community?category=personHome&id=6407e807c1bb4e25e60f1eb8)
 - 🐱‍🚀 [关于一份NPM包](https://www.npmjs.com/~wtechtec)
 - 🔧 [小工具集合(数据转换、加密等)](https://luckcar.top/tools/#/)
