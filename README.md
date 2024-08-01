@@ -2,7 +2,9 @@
 - 🧐[基于Electron录制应用(支持跟随鼠标移动、画板)](http://t.csdnimg.cn/tclFQ)
 - 👀  [从0到1自动化工具专栏, 桌面应用爬虫、自动化测试、自动化操作](http://t.csdnimg.cn/rVLFO)
 - 🌱 [从0到1的微信自动回复平台专栏](http://t.csdnimg.cn/xJMbL)
-🧐- 🐱‍🚀 [关于一份NPM包](https://www.npmjs.com/~wtechtec)
+
+- 🐱‍🚀 [关于一份NPM包](https://www.npmjs.com/~wtechtec)
+
 - 🔧 [小工具集合(数据转换、加密等)](https://luckcar.top/tools/#/)
 - 🥗 [微信小程序”情绪宣泄瓶“, 感受大自然的声音](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0115e92de9b549fab415d53fd6c06283~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=258&h=294&s=31021&e=jpg&b=ffffff)
 - 💕[发现-分享chrome插件](https://chromewebstore.google.com/detail/saysnap/nodnlkmbcbkndbpgaopecgjpffhijkda?hl=zh-CN&authuser=0)
