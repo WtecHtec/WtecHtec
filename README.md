@@ -3,8 +3,7 @@
 ## 爱好：🏸 、💻
 ## [个人说明](https://sourl.cn/fHeXaZ)
 
-![T](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wtechtec&theme=github_dark)
+![T](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WtecHtec&theme=github_dark)
+![r7](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WtecHtec&theme=github_dark)
+![r7](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WtecHtec&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WtecHtec&langs_count=10&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WtecHtec&rank_icon=github)
