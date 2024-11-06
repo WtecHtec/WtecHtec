@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+  <img src="https://github.com/WtecHtec/WtecHtec/blob/output/github-contribution-grid-snake-dark.svg" >
 </div>
 
 
