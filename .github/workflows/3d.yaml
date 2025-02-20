@@ -1,0 +1,42 @@
+name: Update readme
+
+on:
+  schedule:
+    # Run at 0 am every day
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate 3D contribution profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./3d-profile-settings.json
+
+      - name: Move files
+        run: |
+          mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
+          rm -rf ./profile-3d-contrib
+
+      - name: Download github-contrib-stats
+        run: |
+          curl -sSL --output /tmp/github-contrib-stats.tar.gz https://github.com/j178/github-contrib-stats/releases/latest/download/github-contrib-stats-x86_64-unknown-linux-gnu.tar.gz && \
+          tar -xvf /tmp/github-contrib-stats.tar.gz -C /tmp && \
+          chmod +x /tmp/github-contrib-stats
+      - name: Update contribute stats
+        run: /tmp/github-contrib-stats -u ${{ github.repository_owner }} --update contribution.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add & Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A .
+          git commit -m "Update readme daily"
+          git push
