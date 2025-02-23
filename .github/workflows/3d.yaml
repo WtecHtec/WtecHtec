@@ -25,6 +25,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ./3d-profile-settings.json
+      - name: Move files
+        run: |
+          mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
+          rm -rf ./profile-3d-contrib
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
