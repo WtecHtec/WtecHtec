@@ -35,6 +35,13 @@ jobs:
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      - name: Generate 3D contribution profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ./3d-profile-settings.json
       - name: Move files
         run: |
           mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
