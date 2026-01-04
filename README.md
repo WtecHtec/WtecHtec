@@ -39,7 +39,7 @@
 
 #### 2026 `Creating`
 * **[PassScan](https://xujingyichang.top/)**  &nbsp; `Web` `React` `AI简历分析`
-* **[SnapWrite](https://...)** &nbsp; `React` `AI` `微信公众号排版`
+* **[SnapWrite](https://snapwrite.xujingyichang.top/)** &nbsp; `React` `AI` `微信公众号排版`
 * **[WordMomentn](https://wordmoment.xujingyichang.top/)**  &nbsp; `英语单词` `React`
 
 
