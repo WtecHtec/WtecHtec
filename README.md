@@ -24,7 +24,7 @@
 
 **Frontend**
 <br>
-`React` `Vue` `Node.js` `TypeScript` `WeChat Mini Program`
+`React` `Vue` `Node.js` `WeChat Mini Program`
 
 **Native & Client (The Playground)**
 <br>
