@@ -41,6 +41,7 @@
 
 * **[PassScan](https://xujingyichang.top/)**  &nbsp; `Web` `AI` `简历分析`
 * **[SnapWrite](https://snapwrite.xujingyichang.top/)** &nbsp; `Web` `AI` `微信公众号排版`
+* **[Clip2Post](https://github.com/WtecHtec/Clip2Post)** &nbsp; `Web` `AI` `Remotion视频生成` `TTS`
 
 
 #### 2025 `Archived`
