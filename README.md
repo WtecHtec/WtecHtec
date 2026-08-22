@@ -17,22 +17,8 @@
   </p>
 </div>
 
-
-
-
-###  Tech Stack
-
-**Frontend**
-<br>
-`React` `Vue` `Node.js` `WeChat Mini Program`
-
-**Native & Client (The Playground)**
-<br>
-`Swift (iOS/macOS)` `Android` `Flutter`
-
-**Backend & Others**
-<br>
-`Go` `Python` `Java`
+### Vibe Coding Learn
+* **[spec-worker-agent](https://github.com/WtecHtec/spec-worker-agent)**  &nbsp; `AI` `Sandbox` `Agent`
 
 
 ### Timeline & Experiments
@@ -50,6 +36,20 @@
 * **[AutoFlow](https://flowaoto.xujingyichang.top/)** &nbsp; `Electron` `Automation` `RPA自动化`
 
 > → [More Projects / 更多作品](https://iam.xujingyichang.top)
+
+###  Tech Stack
+
+**Frontend**
+<br>
+`React` `Vue` `Node.js` `WeChat Mini Program`
+
+**Native & Client (The Playground)**
+<br>
+`Electron` `Swift (iOS/macOS)` `Android`
+
+**Backend & Others**
+<br>
+`Python` `Go`  `Java`
 
 
 
