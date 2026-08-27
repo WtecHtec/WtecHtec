@@ -19,6 +19,8 @@
 
 ### Vibe Coding Learn
 * **[spec-worker-agent](https://github.com/WtecHtec/spec-worker-agent)**  &nbsp; `AI` `Sandbox` `Agent`
+* **[berth](https://github.com/WtecHtec/berth)** &nbsp; `MacOS` `AI` `Tauri` `ACP`  `终端管理`
+* **[Clip2Post](https://github.com/WtecHtec/Clip2Post)** &nbsp; `Web` `AI`  `TTS` `Remotion视频生成` 
 
 
 ### Timeline & Experiments
@@ -27,8 +29,6 @@
 
 * **[PassScan](https://resume.xujingyichang.top/)**  &nbsp; `Web` `AI` `简历分析`
 * **[SnapWrite](https://snapwrite.xujingyichang.top/)** &nbsp; `Web` `AI` `微信公众号排版`
-* **[Clip2Post](https://github.com/WtecHtec/Clip2Post)** &nbsp; `Web` `AI`  `TTS` `Remotion视频生成` 
-* **[berth](https://github.com/WtecHtec/berth)** &nbsp; `MacOS` `AI` `Tauri` `ACP`  `终端管理`
 
 
 #### 2025 `Archived`
