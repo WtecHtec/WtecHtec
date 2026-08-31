@@ -3,18 +3,6 @@
   <p>
     <em>Frontend Core · Multi-platform Explorer</em>
   </p>
-  
-  <br>
-
-  <blockquote>
-    <p>“我不是很擅长热闹的表达，<br>
-    所以更习惯把想清楚的东西慢慢写下来。<br>
-    你随意看看就好。”</p>
-  </blockquote>
-  
-  <p style="opacity: 0.6; font-size: 12px;">
-    <em>"I prefer to articulate my thoughts slowly in writing."</em>
-  </p>
 </div>
 
 ### Vibe Coding Learn
