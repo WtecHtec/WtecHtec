@@ -19,8 +19,9 @@
 
 ### Vibe Coding Learn
 * **[spec-worker-agent](https://github.com/WtecHtec/spec-worker-agent)**  &nbsp; `AI` `Sandbox` `Agent`
+* **[rag-qa](https://github.com/WtecHtec/rag-qa)**  &nbsp; `AI` `RAG` `Langgraph` `知识库`
+* **[Clip2Post](https://github.com/WtecHtec/Clip2Post)** &nbsp; `Web` `AI`  `TTS` `Remotion视频生成`
 * **[berth](https://github.com/WtecHtec/berth)** &nbsp; `MacOS` `AI` `Tauri` `ACP`  `终端管理`
-* **[Clip2Post](https://github.com/WtecHtec/Clip2Post)** &nbsp; `Web` `AI`  `TTS` `Remotion视频生成` 
 
 
 ### Timeline & Experiments
