@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi, Here 👋</h3>
+  <h3>Hi, Here 👋 </h3>
   <p>
     <em>Frontend Core · Multi-platform Explorer</em>
   </p>
@@ -24,7 +24,7 @@
 * **[WhisperKeyBoard](https://whisperkeyboard.app/)** &nbsp; `MacOS` `iOS` `AI语音输入法`
 * **[AutoFlow](https://flowaoto.xujingyichang.top/)** &nbsp; `Electron` `Automation` `RPA自动化`
 
-> → [More Projects / 更多作品](https://iam.xujingyichang.top)
+> → [More Projects / 更多作品](https://xujingyichang.top)
 
 ###  Tech Stack
 
